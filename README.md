@@ -148,7 +148,6 @@ NLP_Research_Analyser/
 ## Author
 
 Kaavya Gala
-GitHub: https://github.com/KaavyaGala546
 
 ---
 
